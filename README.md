@@ -2,4 +2,4 @@
 
 React JS Study 2021-07-18
 
-https://hanbyeolkang.github.io/movie_app/
+<a href='https://hanbyeolkang.github.io/movie_app/' target='_blank'>실행 결과</a>
